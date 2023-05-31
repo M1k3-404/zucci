@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zucci/static/css/main.08b016ba.css",
-    "main.js": "/zucci/static/js/main.62be6d1a.js",
+    "main.css": "/zucci/static/css/main.55b16f35.css",
+    "main.js": "/zucci/static/js/main.363f685b.js",
     "static/media/belts.jpg": "/zucci/static/media/belts.a5c16370e8d274e1aad9.jpg",
     "static/media/shoes.jpg": "/zucci/static/media/shoes.1ac302b992ad840c5c17.jpg",
     "static/media/curtains.jpg": "/zucci/static/media/curtains.d556c25a7455f549729b.jpg",
@@ -28,11 +28,11 @@
     "static/media/logo.png": "/zucci/static/media/logo.d4f643d4f5996b7dba15.png",
     "static/media/tshirt.jpg": "/zucci/static/media/tshirt.5c086f02d107c92c1f9e.jpg",
     "index.html": "/zucci/index.html",
-    "main.08b016ba.css.map": "/zucci/static/css/main.08b016ba.css.map",
-    "main.62be6d1a.js.map": "/zucci/static/js/main.62be6d1a.js.map"
+    "main.55b16f35.css.map": "/zucci/static/css/main.55b16f35.css.map",
+    "main.363f685b.js.map": "/zucci/static/js/main.363f685b.js.map"
   },
   "entrypoints": [
-    "static/css/main.08b016ba.css",
-    "static/js/main.62be6d1a.js"
+    "static/css/main.55b16f35.css",
+    "static/js/main.363f685b.js"
   ]
 }
