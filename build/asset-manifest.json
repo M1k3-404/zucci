@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/zucci/static/css/main.08b016ba.css",
+    "main.js": "/zucci/static/js/main.62be6d1a.js",
+    "static/media/belts.jpg": "/zucci/static/media/belts.a5c16370e8d274e1aad9.jpg",
+    "static/media/shoes.jpg": "/zucci/static/media/shoes.1ac302b992ad840c5c17.jpg",
+    "static/media/curtains.jpg": "/zucci/static/media/curtains.d556c25a7455f549729b.jpg",
+    "static/media/caps.jpg": "/zucci/static/media/caps.d050c690d0eaff0c510f.jpg",
+    "static/media/accessories.jpg": "/zucci/static/media/accessories.8b3d9d3fed9261b70b67.jpg",
+    "static/media/about-us-bg.jpg": "/zucci/static/media/about-us-bg.b1d86e4025b8f85a50e0.jpg",
+    "static/media/printing.jpg": "/zucci/static/media/printing.ae7d4c7690d891a08b1f.jpg",
+    "static/media/1.png": "/zucci/static/media/1.1af5c3f88a3aadbb68a9.png",
+    "static/media/office.jpg": "/zucci/static/media/office.be8ba908a4eb544a65e9.jpg",
+    "static/media/fabric.jpg": "/zucci/static/media/fabric.9db61cc391d86a271704.jpg",
+    "static/media/normal.jpg": "/zucci/static/media/normal.8a0171c5475133804b75.jpg",
+    "static/media/grommet.jpg": "/zucci/static/media/grommet.a440ba0d3d4f31409e4a.jpg",
+    "static/media/security.jpg": "/zucci/static/media/security.ce87392833919b879606.jpg",
+    "static/media/blinds.jpg": "/zucci/static/media/blinds.10fb78a7abe10f40d502.jpg",
+    "static/media/uniforms.jpg": "/zucci/static/media/uniforms.5afa712fc2484010614e.jpg",
+    "static/media/jackets.jpg": "/zucci/static/media/jackets.58bd034d21924b06fc0b.jpg",
+    "static/media/home.jpg": "/zucci/static/media/home.75cef9cf443a069292c2.jpg",
+    "static/media/corporate.jpg": "/zucci/static/media/corporate.0ae4e5799b6f535020df.jpg",
+    "static/media/industrial.jpg": "/zucci/static/media/industrial.e8fbacb0fdeeab56ec30.jpg",
+    "static/media/ties.jpg": "/zucci/static/media/ties.b686c7315b3f9adab47d.jpg",
+    "static/media/home-bg.jpg": "/zucci/static/media/home-bg.9e2d974061829b9d8ef0.jpg",
+    "static/media/school.jpg": "/zucci/static/media/school.339ff0a7e263661cffa4.jpg",
+    "static/media/cap.jpg": "/zucci/static/media/cap.494446a39f59d47ee5f6.jpg",
+    "static/media/logo.png": "/zucci/static/media/logo.d4f643d4f5996b7dba15.png",
+    "static/media/tshirt.jpg": "/zucci/static/media/tshirt.5c086f02d107c92c1f9e.jpg",
+    "index.html": "/zucci/index.html",
+    "main.08b016ba.css.map": "/zucci/static/css/main.08b016ba.css.map",
+    "main.62be6d1a.js.map": "/zucci/static/js/main.62be6d1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b016ba.css",
+    "static/js/main.62be6d1a.js"
+  ]
+}
